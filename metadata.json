@@ -1,0 +1,5 @@
+{
+  "name": "AI Course Architect",
+  "description": "An advanced AI-powered application that allows users to generate comprehensive educational course outlines, content, exercises, exams, and images. It features PDF/image exercise solving, topic extraction, multi-language support, and PDF export capabilities with full MathJax, code, and table styling.",
+  "requestFramePermissions": []
+}
